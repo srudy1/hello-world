@@ -1,2 +1,3 @@
 # hello-world
 newbie
+Gonna do some stuff to learn some stuff to know some stuff to apply some stuff to master some stuff, yo...
